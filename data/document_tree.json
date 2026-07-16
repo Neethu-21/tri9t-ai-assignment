@@ -1,0 +1,173 @@
+{
+    "title": "CardioTrack CT-200 Home Blood Pressure Monitor \u2014 Technical & User Manual ",
+    "children": {
+        "1. Device Overview": {
+            "title": "1. Device Overview",
+            "content": "The CardioTrack CT-200 is an oscillometric, upper-arm blood pressure monitor intended for home use by adult users. It measures systolic pressure, diastolic pressure, and pulse rate, and stores up to 200 readings across two user pro\ufb01les. ",
+            "children": {
+                "1.1 Intended Use": {
+                    "title": "1.1 Intended Use",
+                    "content": "The CT-200 is intended to non-invasively measure blood pressure and pulse rate in adults with an arm circumference of 22\u201342 cm. It is not intended for use on neonates, infants, or pregnant users, and is not a diagnostic device \u2014 readings should be interpreted by a quali\ufb01ed clinician. ",
+                    "children": {}
+                },
+                "1.2 Indications and Contraindications": {
+                    "title": "1.2 Indications and Contraindications",
+                    "content": "The device should not be used on the arm ipsilateral to a mastectomy, on limbs with an active intravenous line, or on users with severe arrhythmia without clinician guidance, since oscillometric measurement can be unreliable in these cases. ",
+                    "children": {}
+                }
+            }
+        },
+        "2. Physical and Electrical Speci\ufb01cations": {
+            "title": "2. Physical and Electrical Speci\ufb01cations",
+            "content": "",
+            "children": {
+                "2.1 General Speci\ufb01cations": {
+                    "title": "2.1 General Speci\ufb01cations",
+                    "content": "Parameter Value Measurement method Oscillometric Pressure range 0\u2013299 mmHg Pulse range 40\u2013199 bpm Accuracy (pressure) \u00b13 mmHg Accuracy (pulse) \u00b15% Power source 4x AA batteries or 6V DC adapter Display Backlit LCD ",
+                    "children": {}
+                },
+                "2.2 Cu\ufb00 Speci\ufb01cations": {
+                    "title": "2.2 Cu\ufb00 Speci\ufb01cations",
+                    "content": "The standard cu\ufb00 supplied with the CT\u2011200 \ufb01ts arm circumferences of 22\u201332 cm. A separate large cu\ufb00 (part number CT200\u2011LC) is available for 32\u201342 cm and must be ordered separately; using the standard cu\ufb00 outside its rated range will produce inaccurate readings. ",
+                    "children": {}
+                }
+            }
+        },
+        "2.1.1.1 Battery Life Under Typical Use": {
+            "title": "2.1.1.1 Battery Life Under Typical Use",
+            "content": "Under typical use (three measurements per day), four AA alkaline batteries provide approximately 300 measurement cycles before requiring replacement. The device displays a low\u2011battery icon once remaining capacity falls below 15%. ",
+            "children": {}
+        },
+        "3. Device Operation": {
+            "title": "3. Device Operation",
+            "content": "",
+            "children": {
+                "3.1 Powering On and Pro\ufb01le Selection": {
+                    "title": "3.1 Powering On and Pro\ufb01le Selection",
+                    "content": "Press and hold the power button for one second to power on the device. Use the pro\ufb01le button to select User 1 or User 2 before beginning a measurement; readings are stored against whichever pro\ufb01le is active at the time of measurement. ",
+                    "children": {}
+                },
+                "3.2 Cu\ufb00 In\ufb02ation Sequence": {
+                    "title": "3.2 Cu\ufb00 In\ufb02ation Sequence",
+                    "content": "On starting a measurement, the device in\ufb02ates the cu\ufb00 to an initial target of 180 mmHg. If the user's pulse is not detected by 180 mmHg, the device in\ufb02ates in 40 mmHg increments up to a maximum of 299 mmHg before aborting with an error. De\ufb02ation occurs in controlled steps of approximately 3 mmHg to capture oscillometric pulse data. ",
+                    "children": {}
+                },
+                "3.4 Auto Shuto\ufb00": {
+                    "title": "3.4 Auto Shuto\ufb00",
+                    "content": "To conserve battery, the CT\u2011200 automatically powers o\ufb00 after 60 seconds of inactivity on the home screen, and after 3 minutes of inactivity if a measurement screen is left open without starting a reading. ",
+                    "children": {}
+                },
+                "3.3 Result Display and Classi\ufb01cation": {
+                    "title": "3.3 Result Display and Classi\ufb01cation",
+                    "content": "After a completed measurement, the device displays systolic pressure, diastolic pressure, and pulse rate simultaneously, along with a classi\ufb01cation indicator (see 2.1, 4.3 for related speci\ufb01cations and alarm thresholds) based on the most recent joint clinical guidance available at time of manufacture. ",
+                    "children": {}
+                }
+            }
+        },
+        "1. Normal: systolic < 120 and diastolic < 80": {
+            "title": "1. Normal: systolic < 120 and diastolic < 80",
+            "content": "",
+            "children": {}
+        },
+        "2. Elevated: systolic 120\u2013129 and diastolic < 80": {
+            "title": "2. Elevated: systolic 120\u2013129 and diastolic < 80",
+            "content": "",
+            "children": {}
+        },
+        "3. Hypertension Stage 1: systolic 130\u2013139 or diastolic 80\u201389": {
+            "title": "3. Hypertension Stage 1: systolic 130\u2013139 or diastolic 80\u201389",
+            "content": "",
+            "children": {}
+        },
+        "4. Hypertension Stage 2: systolic \u2265 140 or diastolic \u2265 90": {
+            "title": "4. Hypertension Stage 2: systolic \u2265 140 or diastolic \u2265 90",
+            "content": "",
+            "children": {
+                "4.1 Overpressure Protection": {
+                    "title": "4.1 Overpressure Protection",
+                    "content": "If cu\ufb00 pressure exceeds 299 mmHg at any point, or exceeds 300 mmHg for longer than 3 seconds due to sensor fault, the device immediately triggers an emergency de\ufb02ation valve, halting in\ufb02ation and venting the cu\ufb00 within 2 seconds, independent of the main \ufb01rmware control loop. ",
+                    "children": {}
+                },
+                "4.2 Error Codes": {
+                    "title": "4.2 Error Codes",
+                    "content": "Code Meaning Device Behavior E1 Cu\ufb00 not connected or leak detected Aborts measurement, displays E1 E2 Motion artifact detected during measurement Aborts measurement, displays E2, prompts retry E3 Overpressure condition Auto-de\ufb02ates within 2 seconds, displays E3 E4 Low battery during measurement Aborts measurement, displays E4 E5 Internal sensor fault Device disables measurement function, displays E5 until serviced ",
+                    "children": {}
+                },
+                "4.3 Alarm Thresholds": {
+                    "title": "4.3 Alarm Thresholds",
+                    "content": "The device does not sound an audible alarm for elevated readings by default; audible alarms are limited to the E1\u2013E5 error conditions above and are user\u2011con\ufb01gurable in the settings menu, except for E3 (overpressure), which cannot be silenced for safety reasons. ",
+                    "children": {}
+                }
+            }
+        },
+        "5. Hypertensive Crisis: systolic > 180 or diastolic > 120 \u2014 device": {
+            "title": "5. Hypertensive Crisis: systolic > 180 or diastolic > 120 \u2014 device",
+            "content": "recommends seeking immediate medical attention ",
+            "children": {
+                "5.1 Local Storage": {
+                    "title": "5.1 Local Storage",
+                    "content": "The CT\u2011200 stores up to 100 readings per user pro\ufb01le in non\u2011volatile memory. When storage is full, the oldest reading for that pro\ufb01le is overwritten automatically; there is no user\u2011facing warning before this occurs. ",
+                    "children": {}
+                },
+                "5.2 Bluetooth Sync": {
+                    "title": "5.2 Bluetooth Sync",
+                    "content": "The device can pair with the CardioTrack companion app via Bluetooth Low Energy. Readings sync automatically when the app is open and the device is within range; there is no manual \"sync now\" trigger in \ufb01rmware version 1.x. ",
+                    "children": {}
+                }
+            }
+        },
+        "4. Alarms and Safety Behavior": {
+            "title": "4. Alarms and Safety Behavior",
+            "content": "",
+            "children": {}
+        },
+        "5. Data Management": {
+            "title": "5. Data Management",
+            "content": "",
+            "children": {}
+        },
+        "6. Maintenance and Cleaning": {
+            "title": "6. Maintenance and Cleaning",
+            "content": "",
+            "children": {
+                "6.1 Cleaning Instructions": {
+                    "title": "6.1 Cleaning Instructions",
+                    "content": "Wipe the device body and cu\ufb00 exterior with a soft, dry cloth or one lightly dampened with water. Do not submerge the device or cu\ufb00, and do not use alcohol, solvents, or abrasive cleaners on the display. ",
+                    "children": {}
+                },
+                "6.2 Calibration": {
+                    "title": "6.2 Calibration",
+                    "content": "Anthropic recommends professional recalibration every 2 years or after any drop or signi\ufb01cant impact. The device does not perform self\u2011calibration; there is no \ufb01eld calibration procedure available to end users. ",
+                    "children": {}
+                }
+            }
+        },
+        "7. Troubleshooting": {
+            "title": "7. Troubleshooting",
+            "content": "",
+            "children": {
+                "7.1 Error Codes": {
+                    "title": "7.1 Error Codes",
+                    "content": "If a code from Section 4.2 appears and persists after following the on\u2011screen retry prompt twice, users should discontinue use and contact CardioTrack support rather than attempting further self\u2011diagnosis, particularly for E5, which indicates an internal sensor fault. ",
+                    "children": {}
+                },
+                "7.2 Inconsistent Readings": {
+                    "title": "7.2 Inconsistent Readings",
+                    "content": "Inconsistent readings between measurements are most commonly caused by cu\ufb00 mispositioning, talking or moving during measurement, or measuring within 30 minutes of exercise, ca\ufb00eine, or smoking; the manual recommends resting quietly for 5 minutes before remeasuring. ",
+                    "children": {}
+                }
+            }
+        },
+        "8. Regulatory Information": {
+            "title": "8. Regulatory Information",
+            "content": "",
+            "children": {
+                "8.1 Classi\ufb01cation": {
+                    "title": "8.1 Classi\ufb01cation",
+                    "content": "The CT\u2011200 is classi\ufb01ed as a Class II medical device under applicable regulations for non\u2011invasive blood pressure monitors and has been validated against relevant clinical accuracy standards for oscillometric devices. ",
+                    "children": {}
+                }
+            }
+        }
+    }
+}
